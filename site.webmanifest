@@ -1,0 +1,21 @@
+{
+  "name": "Body Fat Percentage Calculator",
+  "short_name": "BF Calculator",
+  "icons": [
+    {
+      "src": "/assets/images/favicon/android-chrome-192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "/assets/images/favicon/android-chrome-512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "theme_color": "#475569",
+  "background_color": "#f9fafb",
+  "display": "standalone",
+  "start_url": "/",
+  "scope": "/"
+}
